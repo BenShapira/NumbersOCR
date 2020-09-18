@@ -8,4 +8,8 @@ Input image (included in the project above) :
 
 Would result with the integer : 6240
 
-Same logic with a few adjustments can be used to OCR basically eveyrthing as long as you can provide refrences to the characters in advance.
+Same logic with a few adjustments can be used to OCR everything as long as a character references can be provided in advance.
+
+
+
+
